@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\bin\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.exe
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\bin\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.deps.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\bin\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\bin\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\bin\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\bin\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\WithoutParametersWithReturnValueType\obj\Debug\netcoreapp3.1\WithoutParametersWithReturnValueType.genruntimeconfig.cache

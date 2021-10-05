@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\bin\Debug\netcoreapp3.1\DatetimeDemo.exe
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\bin\Debug\netcoreapp3.1\DatetimeDemo.deps.json
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\bin\Debug\netcoreapp3.1\DatetimeDemo.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\bin\Debug\netcoreapp3.1\DatetimeDemo.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\bin\Debug\netcoreapp3.1\DatetimeDemo.dll
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\bin\Debug\netcoreapp3.1\DatetimeDemo.pdb
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\obj\Debug\netcoreapp3.1\DatetimeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\obj\Debug\netcoreapp3.1\DatetimeDemo.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\obj\Debug\netcoreapp3.1\DatetimeDemo.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\obj\Debug\netcoreapp3.1\DatetimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\obj\Debug\netcoreapp3.1\DatetimeDemo.dll
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\obj\Debug\netcoreapp3.1\DatetimeDemo.pdb
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\DatetimeDemo\obj\Debug\netcoreapp3.1\DatetimeDemo.genruntimeconfig.cache

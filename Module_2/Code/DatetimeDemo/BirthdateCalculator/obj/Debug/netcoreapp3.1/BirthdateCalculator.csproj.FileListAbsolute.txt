@@ -1,0 +1,16 @@
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\bin\Debug\netcoreapp3.1\BirthdateCalculator.exe
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\bin\Debug\netcoreapp3.1\BirthdateCalculator.deps.json
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\bin\Debug\netcoreapp3.1\BirthdateCalculator.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\bin\Debug\netcoreapp3.1\BirthdateCalculator.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\bin\Debug\netcoreapp3.1\BirthdateCalculator.dll
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\bin\Debug\netcoreapp3.1\BirthdateCalculator.pdb
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.Form1.resources
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.csproj.GenerateResource.cache
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.dll
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.pdb
+C:\Users\ABC\source\repos\Module_2\DatetimeDemo\BirthdateCalculator\obj\Debug\netcoreapp3.1\BirthdateCalculator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.exe
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.deps.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.genruntimeconfig.cache

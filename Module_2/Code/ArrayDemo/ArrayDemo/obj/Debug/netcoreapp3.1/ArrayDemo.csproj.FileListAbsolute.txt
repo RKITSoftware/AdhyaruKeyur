@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.exe
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.deps.json
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.dll
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.pdb
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.dll
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.pdb
+C:\Users\ABC\source\repos\Module_2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.genruntimeconfig.cache

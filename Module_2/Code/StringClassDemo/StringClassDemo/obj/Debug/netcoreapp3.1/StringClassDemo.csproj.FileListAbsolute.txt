@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\bin\Debug\netcoreapp3.1\StringClassDemo.exe
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\bin\Debug\netcoreapp3.1\StringClassDemo.deps.json
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\bin\Debug\netcoreapp3.1\StringClassDemo.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\bin\Debug\netcoreapp3.1\StringClassDemo.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\bin\Debug\netcoreapp3.1\StringClassDemo.dll
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\bin\Debug\netcoreapp3.1\StringClassDemo.pdb
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.dll
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.pdb
+C:\Users\ABC\source\repos\Module_2\StringClassDemo\StringClassDemo\obj\Debug\netcoreapp3.1\StringClassDemo.genruntimeconfig.cache

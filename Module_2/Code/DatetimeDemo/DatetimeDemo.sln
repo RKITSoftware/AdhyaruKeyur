@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatetimeDemo", "DatetimeDemo\DatetimeDemo.csproj", "{B6AB9DF3-9412-4A89-9B18-EA933C75572A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdateCalculator", "BirthdateCalculator\BirthdateCalculator.csproj", "{E6DC73F1-AF15-43D0-8777-85F9E34057D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6AB9DF3-9412-4A89-9B18-EA933C75572A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AB9DF3-9412-4A89-9B18-EA933C75572A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AB9DF3-9412-4A89-9B18-EA933C75572A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AB9DF3-9412-4A89-9B18-EA933C75572A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6DC73F1-AF15-43D0-8777-85F9E34057D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DC73F1-AF15-43D0-8777-85F9E34057D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DC73F1-AF15-43D0-8777-85F9E34057D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DC73F1-AF15-43D0-8777-85F9E34057D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B499E37-1F6A-4E42-9128-47982CA6FC0A}
+	EndGlobalSection
+EndGlobal
