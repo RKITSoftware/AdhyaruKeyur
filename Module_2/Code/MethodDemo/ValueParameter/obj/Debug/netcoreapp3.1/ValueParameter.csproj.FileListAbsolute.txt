@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\bin\Debug\netcoreapp3.1\ValueParameter.exe
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\bin\Debug\netcoreapp3.1\ValueParameter.deps.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\bin\Debug\netcoreapp3.1\ValueParameter.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\bin\Debug\netcoreapp3.1\ValueParameter.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\bin\Debug\netcoreapp3.1\ValueParameter.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\bin\Debug\netcoreapp3.1\ValueParameter.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\obj\Debug\netcoreapp3.1\ValueParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\obj\Debug\netcoreapp3.1\ValueParameter.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\obj\Debug\netcoreapp3.1\ValueParameter.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\obj\Debug\netcoreapp3.1\ValueParameter.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\obj\Debug\netcoreapp3.1\ValueParameter.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\obj\Debug\netcoreapp3.1\ValueParameter.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\ValueParameter\obj\Debug\netcoreapp3.1\ValueParameter.genruntimeconfig.cache

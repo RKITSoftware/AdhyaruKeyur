@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\bin\Debug\netcoreapp3.1\DefaultParameters.exe
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\bin\Debug\netcoreapp3.1\DefaultParameters.deps.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\bin\Debug\netcoreapp3.1\DefaultParameters.runtimeconfig.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\bin\Debug\netcoreapp3.1\DefaultParameters.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\bin\Debug\netcoreapp3.1\DefaultParameters.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\bin\Debug\netcoreapp3.1\DefaultParameters.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\obj\Debug\netcoreapp3.1\DefaultParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\obj\Debug\netcoreapp3.1\DefaultParameters.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\obj\Debug\netcoreapp3.1\DefaultParameters.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\obj\Debug\netcoreapp3.1\DefaultParameters.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\obj\Debug\netcoreapp3.1\DefaultParameters.dll
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\obj\Debug\netcoreapp3.1\DefaultParameters.pdb
+C:\Users\ABC\source\repos\Module_2\MethodDemo\DefaultParameters\obj\Debug\netcoreapp3.1\DefaultParameters.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.exe
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.deps.json
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.runtimeconfig.json
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.dll
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.pdb
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.AssemblyInfo.cs
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.dll
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.pdb
+C:\Users\ABC\source\repos\TernaryOperatorDemo\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.genruntimeconfig.cache
