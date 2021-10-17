@@ -8,11 +8,11 @@ namespace ValueParameter
         {
             //here is the example of value Parameters.
 
-            #region Gobal Variables
+            #region GlobalVariable
             int num1 = 10;
             int num2 = 20;
             int result = 0;
-            #endregion Gobal Variables
+            #endregion GlobalVariable
 
             result = swapValue(num1, num2);
             Console.WriteLine("Swap Value and Return first One : " + result);
