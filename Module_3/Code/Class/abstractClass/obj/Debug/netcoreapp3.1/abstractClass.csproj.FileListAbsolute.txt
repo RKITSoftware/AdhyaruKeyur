@@ -1,0 +1,14 @@
+D:\DotNet\Modules\Module 3\Class\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.exe
+D:\DotNet\Modules\Module 3\Class\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.deps.json
+D:\DotNet\Modules\Module 3\Class\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.runtimeconfig.json
+D:\DotNet\Modules\Module 3\Class\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.runtimeconfig.dev.json
+D:\DotNet\Modules\Module 3\Class\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.dll
+D:\DotNet\Modules\Module 3\Class\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.pdb
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.csproj.AssemblyReference.cache
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.AssemblyInfoInputs.cache
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.AssemblyInfo.cs
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.csproj.CoreCompileInputs.cache
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.dll
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.pdb
+D:\DotNet\Modules\Module 3\Class\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.genruntimeconfig.cache

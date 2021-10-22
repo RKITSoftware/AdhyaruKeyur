@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\Properties\GetSetProperties\bin\Debug\netcoreapp3.1\GetSetProperties.exe
+C:\Users\ABC\source\repos\Properties\GetSetProperties\bin\Debug\netcoreapp3.1\GetSetProperties.deps.json
+C:\Users\ABC\source\repos\Properties\GetSetProperties\bin\Debug\netcoreapp3.1\GetSetProperties.runtimeconfig.json
+C:\Users\ABC\source\repos\Properties\GetSetProperties\bin\Debug\netcoreapp3.1\GetSetProperties.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Properties\GetSetProperties\bin\Debug\netcoreapp3.1\GetSetProperties.dll
+C:\Users\ABC\source\repos\Properties\GetSetProperties\bin\Debug\netcoreapp3.1\GetSetProperties.pdb
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.dll
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.pdb
+C:\Users\ABC\source\repos\Properties\GetSetProperties\obj\Debug\netcoreapp3.1\GetSetProperties.genruntimeconfig.cache

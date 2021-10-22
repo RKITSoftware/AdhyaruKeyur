@@ -1,0 +1,13 @@
+D:\DotNet\Modules\Module 3\Class\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.exe
+D:\DotNet\Modules\Module 3\Class\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.deps.json
+D:\DotNet\Modules\Module 3\Class\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.runtimeconfig.json
+D:\DotNet\Modules\Module 3\Class\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.runtimeconfig.dev.json
+D:\DotNet\Modules\Module 3\Class\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.dll
+D:\DotNet\Modules\Module 3\Class\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.pdb
+D:\DotNet\Modules\Module 3\Class\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Modules\Module 3\Class\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfoInputs.cache
+D:\DotNet\Modules\Module 3\Class\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfo.cs
+D:\DotNet\Modules\Module 3\Class\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.csproj.CoreCompileInputs.cache
+D:\DotNet\Modules\Module 3\Class\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.dll
+D:\DotNet\Modules\Module 3\Class\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.pdb
+D:\DotNet\Modules\Module 3\Class\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.genruntimeconfig.cache

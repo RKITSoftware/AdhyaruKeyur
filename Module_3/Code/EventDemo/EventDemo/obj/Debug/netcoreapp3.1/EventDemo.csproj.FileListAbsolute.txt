@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\EventDemo\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.exe
+C:\Users\ABC\source\repos\EventDemo\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.deps.json
+C:\Users\ABC\source\repos\EventDemo\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.runtimeconfig.json
+C:\Users\ABC\source\repos\EventDemo\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\EventDemo\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.dll
+C:\Users\ABC\source\repos\EventDemo\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.pdb
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.AssemblyInfo.cs
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.dll
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.pdb
+C:\Users\ABC\source\repos\EventDemo\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.genruntimeconfig.cache

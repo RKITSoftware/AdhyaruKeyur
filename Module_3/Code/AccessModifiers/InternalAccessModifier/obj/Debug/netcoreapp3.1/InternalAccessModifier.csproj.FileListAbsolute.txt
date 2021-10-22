@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\bin\Debug\netcoreapp3.1\InternalAccessModifier.exe
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\bin\Debug\netcoreapp3.1\InternalAccessModifier.deps.json
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\bin\Debug\netcoreapp3.1\InternalAccessModifier.runtimeconfig.json
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\bin\Debug\netcoreapp3.1\InternalAccessModifier.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\bin\Debug\netcoreapp3.1\InternalAccessModifier.dll
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\bin\Debug\netcoreapp3.1\InternalAccessModifier.pdb
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.AssemblyInfo.cs
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.dll
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.pdb
+C:\Users\ABC\source\repos\AccessModifiers\InternalAccessModifier\obj\Debug\netcoreapp3.1\InternalAccessModifier.genruntimeconfig.cache

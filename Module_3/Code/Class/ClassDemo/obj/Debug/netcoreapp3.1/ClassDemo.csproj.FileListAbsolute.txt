@@ -1,0 +1,14 @@
+D:\DotNet\Modules\Module 3\Class\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.exe
+D:\DotNet\Modules\Module 3\Class\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.deps.json
+D:\DotNet\Modules\Module 3\Class\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.json
+D:\DotNet\Modules\Module 3\Class\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.dev.json
+D:\DotNet\Modules\Module 3\Class\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.dll
+D:\DotNet\Modules\Module 3\Class\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.pdb
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csproj.AssemblyReference.cache
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfoInputs.cache
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfo.cs
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csproj.CoreCompileInputs.cache
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.dll
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.pdb
+D:\DotNet\Modules\Module 3\Class\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.genruntimeconfig.cache

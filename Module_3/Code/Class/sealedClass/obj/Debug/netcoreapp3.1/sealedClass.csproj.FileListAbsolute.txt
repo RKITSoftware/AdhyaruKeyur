@@ -1,0 +1,14 @@
+D:\DotNet\Modules\Module 3\Class\sealedClass\bin\Debug\netcoreapp3.1\sealedClass.exe
+D:\DotNet\Modules\Module 3\Class\sealedClass\bin\Debug\netcoreapp3.1\sealedClass.deps.json
+D:\DotNet\Modules\Module 3\Class\sealedClass\bin\Debug\netcoreapp3.1\sealedClass.runtimeconfig.json
+D:\DotNet\Modules\Module 3\Class\sealedClass\bin\Debug\netcoreapp3.1\sealedClass.runtimeconfig.dev.json
+D:\DotNet\Modules\Module 3\Class\sealedClass\bin\Debug\netcoreapp3.1\sealedClass.dll
+D:\DotNet\Modules\Module 3\Class\sealedClass\bin\Debug\netcoreapp3.1\sealedClass.pdb
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.csproj.AssemblyReference.cache
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.AssemblyInfoInputs.cache
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.AssemblyInfo.cs
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.csproj.CoreCompileInputs.cache
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.dll
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.pdb
+D:\DotNet\Modules\Module 3\Class\sealedClass\obj\Debug\netcoreapp3.1\sealedClass.genruntimeconfig.cache

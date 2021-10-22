@@ -1,0 +1,13 @@
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.exe
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.deps.json
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.runtimeconfig.json
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.dll
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.pdb
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.AssemblyInfo.cs
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.dll
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.pdb
+C:\Users\keyur\source\repos\GenericCollection\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.genruntimeconfig.cache

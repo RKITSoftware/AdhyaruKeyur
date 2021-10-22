@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.exe
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.deps.json
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.runtimeconfig.json
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.dll
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.pdb
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.AssemblyInfo.cs
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.dll
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.pdb
+C:\Users\ABC\source\repos\AccessModifiers\PrivateAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.genruntimeconfig.cache

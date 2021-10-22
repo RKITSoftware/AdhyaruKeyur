@@ -1,0 +1,13 @@
+C:\Users\keyur\source\repos\GenericCollection\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\keyur\source\repos\GenericCollection\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\keyur\source\repos\GenericCollection\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\keyur\source\repos\GenericCollection\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\GenericCollection\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\keyur\source\repos\GenericCollection\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\keyur\source\repos\GenericCollection\List\obj\Debug\netcoreapp3.1\List.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\GenericCollection\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\GenericCollection\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\keyur\source\repos\GenericCollection\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\GenericCollection\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\keyur\source\repos\GenericCollection\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\keyur\source\repos\GenericCollection\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache

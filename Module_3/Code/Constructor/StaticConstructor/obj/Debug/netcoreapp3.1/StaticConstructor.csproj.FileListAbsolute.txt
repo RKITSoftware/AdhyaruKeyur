@@ -1,0 +1,14 @@
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.exe
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.deps.json
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.json
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.dev.json
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.dll
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.pdb
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csproj.AssemblyReference.cache
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfoInputs.cache
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfo.cs
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csproj.CoreCompileInputs.cache
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.dll
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.pdb
+D:\DotNet\Modules\Module 3\Constructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.genruntimeconfig.cache

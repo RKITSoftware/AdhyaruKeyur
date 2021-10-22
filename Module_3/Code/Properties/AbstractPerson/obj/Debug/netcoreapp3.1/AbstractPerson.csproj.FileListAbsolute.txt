@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\Properties\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.exe
+C:\Users\ABC\source\repos\Properties\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.deps.json
+C:\Users\ABC\source\repos\Properties\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.runtimeconfig.json
+C:\Users\ABC\source\repos\Properties\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\Properties\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.dll
+C:\Users\ABC\source\repos\Properties\AbstractPerson\bin\Debug\netcoreapp3.1\AbstractPerson.pdb
+C:\Users\ABC\source\repos\Properties\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\Properties\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\Properties\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.AssemblyInfo.cs
+C:\Users\ABC\source\repos\Properties\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Properties\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.dll
+C:\Users\ABC\source\repos\Properties\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.pdb
+C:\Users\ABC\source\repos\Properties\AbstractPerson\obj\Debug\netcoreapp3.1\AbstractPerson.genruntimeconfig.cache
