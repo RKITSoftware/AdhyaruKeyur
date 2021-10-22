@@ -8,9 +8,9 @@ namespace DefaultParameters
         {
             //here is the example of default or optional Parameters.
 
-            #region Gobal Variables
+            #region GlobalVariable
             int result = 0;
-            #endregion Gobal Variables
+            #endregion GlobalVariable
 
             //only pass the one parameter. - other Parameters will take default value.
             result = Add(10);

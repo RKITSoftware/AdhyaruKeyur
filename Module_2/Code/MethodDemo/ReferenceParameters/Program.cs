@@ -8,11 +8,11 @@ namespace ReferenceParameters
         {
             //here is the demo of ref Parameters.
 
-            #region Gobal Variables
+            #region GlobalVariable
             int num1 = 10;
             int num2 = 20;
             int result = 0;
-            #endregion Gobal Variables
+            #endregion GlobalVariable
 
             Program objProgram = new Program();
 

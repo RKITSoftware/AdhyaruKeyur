@@ -6,10 +6,10 @@ namespace TernaryOperator
     {
         static void Main(string[] args)
         {
-            #region Gobal Variable
+            #region GlobalVariable
             int number = 10;
             string result;
-            #endregion Gobal Variable
+            #endregion GlobalVariable
 
             //ternary Operator.
             result = (number % 2 == 0) ? "Even Number" : "Odd Number";

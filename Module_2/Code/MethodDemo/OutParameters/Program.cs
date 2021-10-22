@@ -9,9 +9,9 @@ namespace OutParameters
         {
             //here is the example of out Parameters.
 
-            #region Gobal Variables
+            #region GlobalVariable
             int result = 0;
-            #endregion Gobal Variables
+            #endregion GlobalVariable
 
             //In the Below statment We will take the sum in out variable - result.
             Add(10, 20,out result);

@@ -9,13 +9,13 @@ namespace ParamsParameters
             //here is the example of Params Parameters.
             //using Params keyword we can pass multiple parameters of same types.
 
-            #region Gobal Variables
+            #region GlobalVariable
             int num1 = 10;
             int num2 = 20;
             int num3 = 30;
             int num4 = 40;
             int result = 0;
-            #endregion Gobal Variables
+            #endregion GlobalVariable
 
             result = Add(num1, num2, num3, num4);
             Console.WriteLine("Sum is : {0}",result);
