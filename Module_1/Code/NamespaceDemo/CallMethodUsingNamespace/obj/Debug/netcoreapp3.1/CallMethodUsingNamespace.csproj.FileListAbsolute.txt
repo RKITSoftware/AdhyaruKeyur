@@ -1,0 +1,14 @@
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\bin\Debug\netcoreapp3.1\CallMethodUsingNamespace.exe
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\bin\Debug\netcoreapp3.1\CallMethodUsingNamespace.deps.json
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\bin\Debug\netcoreapp3.1\CallMethodUsingNamespace.runtimeconfig.json
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\bin\Debug\netcoreapp3.1\CallMethodUsingNamespace.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\bin\Debug\netcoreapp3.1\CallMethodUsingNamespace.dll
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\bin\Debug\netcoreapp3.1\CallMethodUsingNamespace.pdb
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.AssemblyInfo.cs
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.dll
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.pdb
+C:\Users\ABC\source\repos\NamespaceDemo\CallMethodUsingNamespace\obj\Debug\netcoreapp3.1\CallMethodUsingNamespace.genruntimeconfig.cache

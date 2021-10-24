@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\bin\Debug\netcoreapp3.1\TypeCastingDemo.exe
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\bin\Debug\netcoreapp3.1\TypeCastingDemo.deps.json
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\bin\Debug\netcoreapp3.1\TypeCastingDemo.runtimeconfig.json
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\bin\Debug\netcoreapp3.1\TypeCastingDemo.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\bin\Debug\netcoreapp3.1\TypeCastingDemo.dll
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\bin\Debug\netcoreapp3.1\TypeCastingDemo.pdb
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\obj\Debug\netcoreapp3.1\TypeCastingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\obj\Debug\netcoreapp3.1\TypeCastingDemo.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\obj\Debug\netcoreapp3.1\TypeCastingDemo.AssemblyInfo.cs
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\obj\Debug\netcoreapp3.1\TypeCastingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\obj\Debug\netcoreapp3.1\TypeCastingDemo.dll
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\obj\Debug\netcoreapp3.1\TypeCastingDemo.pdb
+C:\Users\ABC\source\repos\TypeCastingDemo\TypeCastingDemo\obj\Debug\netcoreapp3.1\TypeCastingDemo.genruntimeconfig.cache

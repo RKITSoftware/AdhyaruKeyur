@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\bin\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.exe
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\bin\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.deps.json
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\bin\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.runtimeconfig.json
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\bin\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\bin\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.dll
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\bin\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.pdb
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\obj\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\obj\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\obj\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.AssemblyInfo.cs
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\obj\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\obj\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.dll
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\obj\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.pdb
+C:\Users\ABC\source\repos\VariableMethodDeclarationDemo\VariableMethodDeclarationDemo\obj\Debug\netcoreapp3.1\VariableMethodDeclarationDemo.genruntimeconfig.cache

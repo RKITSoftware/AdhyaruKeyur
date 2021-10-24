@@ -1,0 +1,13 @@
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\bin\Debug\netcoreapp3.1\SimpleNamesapce.exe
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\bin\Debug\netcoreapp3.1\SimpleNamesapce.deps.json
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\bin\Debug\netcoreapp3.1\SimpleNamesapce.runtimeconfig.json
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\bin\Debug\netcoreapp3.1\SimpleNamesapce.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\bin\Debug\netcoreapp3.1\SimpleNamesapce.dll
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\bin\Debug\netcoreapp3.1\SimpleNamesapce.pdb
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\obj\Debug\netcoreapp3.1\SimpleNamesapce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\obj\Debug\netcoreapp3.1\SimpleNamesapce.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\obj\Debug\netcoreapp3.1\SimpleNamesapce.AssemblyInfo.cs
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\obj\Debug\netcoreapp3.1\SimpleNamesapce.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\obj\Debug\netcoreapp3.1\SimpleNamesapce.dll
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\obj\Debug\netcoreapp3.1\SimpleNamesapce.pdb
+C:\Users\ABC\source\repos\NamespaceDemo\SimpleNamesapce\obj\Debug\netcoreapp3.1\SimpleNamesapce.genruntimeconfig.cache
