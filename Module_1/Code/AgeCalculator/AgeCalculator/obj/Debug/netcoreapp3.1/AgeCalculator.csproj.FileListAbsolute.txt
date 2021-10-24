@@ -1,0 +1,15 @@
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.exe
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.deps.json
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.json
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.dll
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.pdb
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.Form1.resources
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csproj.GenerateResource.cache
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfo.cs
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.dll
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.pdb
+C:\Users\ABC\source\repos\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.genruntimeconfig.cache
