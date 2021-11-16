@@ -1,0 +1,13 @@
+D:\DotNet\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.exe
+D:\DotNet\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.deps.json
+D:\DotNet\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.json
+D:\DotNet\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.dev.json
+D:\DotNet\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.dll
+D:\DotNet\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.pdb
+D:\DotNet\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfoInputs.cache
+D:\DotNet\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfo.cs
+D:\DotNet\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\DotNet\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.dll
+D:\DotNet\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.pdb
+D:\DotNet\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.genruntimeconfig.cache

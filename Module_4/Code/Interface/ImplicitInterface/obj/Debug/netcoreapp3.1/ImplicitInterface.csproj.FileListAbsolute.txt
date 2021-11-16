@@ -1,0 +1,13 @@
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\bin\Debug\netcoreapp3.1\ImplicitInterface.exe
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\bin\Debug\netcoreapp3.1\ImplicitInterface.deps.json
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\bin\Debug\netcoreapp3.1\ImplicitInterface.runtimeconfig.json
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\bin\Debug\netcoreapp3.1\ImplicitInterface.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\bin\Debug\netcoreapp3.1\ImplicitInterface.dll
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\bin\Debug\netcoreapp3.1\ImplicitInterface.pdb
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\obj\Debug\netcoreapp3.1\ImplicitInterface.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\obj\Debug\netcoreapp3.1\ImplicitInterface.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\obj\Debug\netcoreapp3.1\ImplicitInterface.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\obj\Debug\netcoreapp3.1\ImplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\obj\Debug\netcoreapp3.1\ImplicitInterface.dll
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\obj\Debug\netcoreapp3.1\ImplicitInterface.pdb
+C:\Users\keyur\source\repos\Interface\ImplicitInterface\obj\Debug\netcoreapp3.1\ImplicitInterface.genruntimeconfig.cache

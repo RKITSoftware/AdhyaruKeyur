@@ -1,0 +1,13 @@
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.exe
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.deps.json
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.runtimeconfig.json
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.dll
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.pdb
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.dll
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.pdb
+C:\Users\keyur\source\repos\Exception\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.genruntimeconfig.cache

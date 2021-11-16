@@ -1,0 +1,13 @@
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\keyur\source\repos\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache

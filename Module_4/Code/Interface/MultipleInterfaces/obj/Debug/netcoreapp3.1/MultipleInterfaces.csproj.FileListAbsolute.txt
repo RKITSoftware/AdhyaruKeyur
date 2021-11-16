@@ -1,0 +1,13 @@
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\bin\Debug\netcoreapp3.1\MultipleInterfaces.exe
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\bin\Debug\netcoreapp3.1\MultipleInterfaces.deps.json
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\bin\Debug\netcoreapp3.1\MultipleInterfaces.runtimeconfig.json
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\bin\Debug\netcoreapp3.1\MultipleInterfaces.runtimeconfig.dev.json
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\bin\Debug\netcoreapp3.1\MultipleInterfaces.dll
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\bin\Debug\netcoreapp3.1\MultipleInterfaces.pdb
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\obj\Debug\netcoreapp3.1\MultipleInterfaces.csproj.AssemblyReference.cache
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\obj\Debug\netcoreapp3.1\MultipleInterfaces.AssemblyInfoInputs.cache
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\obj\Debug\netcoreapp3.1\MultipleInterfaces.AssemblyInfo.cs
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\obj\Debug\netcoreapp3.1\MultipleInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\obj\Debug\netcoreapp3.1\MultipleInterfaces.dll
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\obj\Debug\netcoreapp3.1\MultipleInterfaces.pdb
+C:\Users\keyur\source\repos\Interface\MultipleInterfaces\obj\Debug\netcoreapp3.1\MultipleInterfaces.genruntimeconfig.cache
