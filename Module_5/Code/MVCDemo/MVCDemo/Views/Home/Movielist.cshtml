@@ -1,0 +1,36 @@
+﻿@*model MVCDemo.Models.Movie*@
+@model IEnumerable<MVCDemo.Models.Movie>
+
+@{
+    ViewBag.Title = "Movielist";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("RemoveMovie", "Home", FormMethod.Post))
+{ 
+    <div class="container">
+        <h1 class="text-primary">Movies List</h1>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Distributor</th>
+                    <th scope="col">Rank</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var objMovie in Model)
+                {
+                    <tr>
+                        <th scope="row">@objMovie.Id</th>
+                        <td>@objMovie.Name</td>
+                        <td>@objMovie.Distributor</td>
+                        <td>@objMovie.Rank</td>
+                        <td><input type="submit" value="Delete" name="Delete"/></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+}
