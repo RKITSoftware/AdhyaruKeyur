@@ -1,24 +1,36 @@
-﻿using CountriesAPI.Database;
+﻿using CountriesAPI.BL;
 using CountriesAPI.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace CountriesAPI.Controllers
 {
     public class CountryController : ApiController
     {
+        /// <summary>
+        /// Get All Country Data.
+        /// </summary>
+        /// <returns>
+        /// return a Country Data.
+        /// </returns>
+        [Route("api/country/allCountry")]
         [HttpGet]
         public List<Countries> AllCountry()
         {
-            DBHandler objDBHandler = new DBHandler();
+            BLCountry objBLCountry = new BLCountry();
             
-            return objDBHandler.selectAll();
+            return objBLCountry.selectAll();
         }
 
+        /// <summary>
+        /// Insert Country Data.
+        /// </summary>
+        /// <param name="objCountries">
+        /// Countries Model Fields - phone, countryName, countryCode, capital, currency, continent, continentCode.
+        /// </param>
+        /// <returns>
+        /// return a string messages.
+        /// </returns>
         [Route("api/country/insertCountry")]
         [HttpPost]
         public string insertCountry([FromBody] Countries objCountries)
@@ -29,11 +41,20 @@ namespace CountriesAPI.Controllers
             }
             else
             {
-                DBHandler objDBHandler = new DBHandler();
-                return objDBHandler.addCountry(objCountries);
+                BLCountry objBLCountry = new BLCountry();
+                return objBLCountry.addCountry(objCountries);
             }
         }
 
+        /// <summary>
+        /// Update the Country Data
+        /// </summary>
+        /// <param name="objCountries">
+        /// Countries Model Fields - phone, countryName, countryCode, capital, currency, continent, continentCode.
+        /// </param>
+        /// <returns>
+        /// return a string messages.
+        /// </returns>
         [Route("api/country/updateCountry")]
         [HttpPost]
         public string updateCountry([FromBody] Countries objCountries)
@@ -44,25 +65,43 @@ namespace CountriesAPI.Controllers
             }
             else
             {
-                DBHandler objDBHandler = new DBHandler();
-                return objDBHandler.updateCountry(objCountries);
+                BLCountry objBLCountry = new BLCountry();
+                return objBLCountry.updateCountry(objCountries);
             }
         }
 
+        /// <summary>
+        /// Get the country data base on Id.
+        /// </summary>
+        /// <param name="countryId">
+        /// countryId Pass using this field.
+        /// </param>
+        /// <returns>
+        /// return a Country Model object.
+        /// </returns>
         [Route("api/country/getCountryById")]
         [HttpGet]
         public Countries getCountryById(int countryId)
         {
-            DBHandler objDBHandler = new DBHandler();
-            return objDBHandler.getCountryById(countryId);
+            BLCountry objBLCountry = new BLCountry();
+            return objBLCountry.getCountryById(countryId);
         }
 
+        /// <summary>
+        /// Delete the Country of given Id.
+        /// </summary>
+        /// <param name="countryId">
+        /// countryId Pass using this field.
+        /// </param>
+        /// <returns>
+        /// return a string messages.
+        /// </returns>
         [Route("api/country/deleteCountryById")]
         [HttpGet]
         public string deleteCountryById(int countryId)
         {
-            DBHandler objDBHandler = new DBHandler();
-            return objDBHandler.delectCountryById(countryId);
+            BLCountry objBLCountry = new BLCountry();
+            return objBLCountry.delectCountryById(countryId);
         }
     }
 }

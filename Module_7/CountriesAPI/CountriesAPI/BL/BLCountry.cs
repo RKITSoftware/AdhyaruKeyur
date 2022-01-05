@@ -2,15 +2,18 @@
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
-using System.Data;
-using System.Data.SqlClient;
 
-namespace CountriesAPI.Database
+namespace CountriesAPI.BL
 {
-    public class DBHandler
+    public class BLCountry
     {
+        #region Public Variables
+
         public static string ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings["sqlconnection"].ConnectionString;
 
+        #endregion Public Variables
+
+        #region Public Methods
         //retrive all data
         public List<Countries> selectAll()
         {
@@ -21,12 +24,15 @@ namespace CountriesAPI.Database
                 try
                 {
                     conn.Open();
+
+                    //sql query - select all country data.
                     MySqlCommand cmd = new MySqlCommand("select * from countries", conn);
 
                     using (var reader = cmd.ExecuteReader())
                     {
                         while (reader.Read())
                         {
+                            //insert data into model.
                             countriesList.Add(new Countries()
                             {
                                 countryId = Convert.ToInt32(reader["id"]),
@@ -40,15 +46,18 @@ namespace CountriesAPI.Database
                             });
                         }
                     }
-                }catch (Exception ex)
-                {
-                    Console.WriteLine("Can not open connection !");
-
                 }
-
+                catch (Exception objException)
+                {
+                    Console.WriteLine("Cannot open connection with error - " + objException.Message);
+                }
+                finally
+                {
+                    conn.Close();
+                }
             }
             return countriesList;
-           }
+        }
 
         //retrive data by id
         public Countries getCountryById(int id)
@@ -60,12 +69,15 @@ namespace CountriesAPI.Database
                 try
                 {
                     conn.Open();
-                    MySqlCommand cmd = new MySqlCommand("select * from countries where id = "+ id + ";", conn);
+
+                    //sql query - select country base on CountryID
+                    MySqlCommand cmd = new MySqlCommand("select * from countries where id = " + id + ";", conn);
 
                     using (var reader = cmd.ExecuteReader())
                     {
                         while (reader.Read())
                         {
+                            // retrive data to country model.
                             countriesList.countryId = Convert.ToInt32(reader["id"]);
                             countriesList.countryCode = reader["code"].ToString();
                             countriesList.countryName = reader["name"].ToString();
@@ -77,16 +89,14 @@ namespace CountriesAPI.Database
                         }
                     }
                 }
-                catch (Exception ex)
+                catch (Exception objException)
                 {
-                    Console.WriteLine("Can not open connection !");
-
+                    Console.WriteLine("Cannot open connection with error - " + objException.Message);
                 }
                 finally
                 {
                     conn.Close();
                 }
-
             }
             return countriesList;
         }
@@ -102,9 +112,10 @@ namespace CountriesAPI.Database
                 {
                     conn.Open();
 
-                    MySqlCommand cmd = new MySqlCommand("insert into countries (name,code,capital,currency,continent,continent_code,phone) values('"+ objCountries.countryName+"','" + objCountries.countryCode+"','" + objCountries.capital + "','" + objCountries.currency + "','"+ objCountries.continent + "','" + objCountries.continentCode + "','" + objCountries.phone+ "')", conn);
+                    //sql query - delete country base on CountryID
+                    MySqlCommand cmd = new MySqlCommand("insert into countries (name,code,capital,currency,continent,continent_code,phone) values('" + objCountries.countryName + "','" + objCountries.countryCode + "','" + objCountries.capital + "','" + objCountries.currency + "','" + objCountries.continent + "','" + objCountries.continentCode + "','" + objCountries.phone + "')", conn);
 
-/*                    cmd.Parameters.AddWithValue("@name", objCountries.countryName);
+                    /*cmd.Parameters.AddWithValue("@name", objCountries.countryName);
                     cmd.Parameters.AddWithValue("@code", objCountries.countryCode);
                     cmd.Parameters.AddWithValue("@capital", objCountries.capital);
                     cmd.Parameters.AddWithValue("@currency", objCountries.currency);
@@ -113,45 +124,13 @@ namespace CountriesAPI.Database
                     cmd.Parameters.AddWithValue("@phone", objCountries.phone);*/
 
                     int effect = cmd.ExecuteNonQuery();
+
+                    //check query is execute succssfully or not.
                     if (effect > 0)
                     {
                         return "successfull";
                     }
                     return "Not successfull query";
-
-                    
-                }
-                catch (Exception ex)
-                {
-                    return "Cannot open connection with error - "+ ex.Message;
-                }
-                finally
-                {
-                    conn.Close();
-                }
-
-            }
-        }
-
-        //delete data
-        public string delectCountryById(int id)
-        {
-            using (MySqlConnection conn = new MySqlConnection(ConnectionString))
-            {
-                try
-                {
-                    conn.Open();
-
-                    MySqlCommand cmd = new MySqlCommand("delete from countries where id = "+ id, conn);
-
-                    int effect = cmd.ExecuteNonQuery();
-                    if (effect > 0)
-                    {
-                        return "successfull";
-                    }
-                    return "Not successfull query";
-
-
                 }
                 catch (Exception ex)
                 {
@@ -161,7 +140,38 @@ namespace CountriesAPI.Database
                 {
                     conn.Close();
                 }
+            }
+        }
 
+        //delete data of given id.
+        public string delectCountryById(int id)
+        {
+            using (MySqlConnection conn = new MySqlConnection(ConnectionString))
+            {
+                try
+                {
+                    conn.Open();
+
+                    //sql query - delete country base on CountryID
+                    MySqlCommand cmd = new MySqlCommand("delete from countries where id = " + id, conn);
+
+                    int effect = cmd.ExecuteNonQuery();
+
+                    //check query is execute succssfully or not.
+                    if (effect > 0)
+                    {
+                        return "successfull";
+                    }
+                    return "Not successfull query";
+                }
+                catch (Exception ex)
+                {
+                    return "Cannot open connection with error - " + ex.Message;
+                }
+                finally
+                {
+                    conn.Close();
+                }
             }
         }
 
@@ -176,17 +186,17 @@ namespace CountriesAPI.Database
                 {
                     conn.Open();
 
-                    MySqlCommand cmd = new MySqlCommand("update countries set name = '"+ objCountries.countryName + "',code = '" +objCountries.countryCode + "',capital = '"+ objCountries.capital +"',currency = '"+ objCountries.currency + "',continent = '"+ objCountries.continent + "',continent_code = '"+ objCountries.continentCode + "',phone = '" + objCountries.phone + "' where id = '" + objCountries.countryId + "';", conn);
-
+                    //sql query - update country base on CountryID
+                    MySqlCommand cmd = new MySqlCommand("update countries set name = '" + objCountries.countryName + "',code = '" + objCountries.countryCode + "',capital = '" + objCountries.capital + "',currency = '" + objCountries.currency + "',continent = '" + objCountries.continent + "',continent_code = '" + objCountries.continentCode + "',phone = '" + objCountries.phone + "' where id = '" + objCountries.countryId + "';", conn);
 
                     int effect = cmd.ExecuteNonQuery();
+
+                    //check query is execute succssfully or not.
                     if (effect > 0)
                     {
                         return "successfull";
                     }
                     return "Not successfull query";
-
-
                 }
                 catch (Exception ex)
                 {
@@ -196,8 +206,9 @@ namespace CountriesAPI.Database
                 {
                     conn.Close();
                 }
-
             }
         }
+
+        #endregion Public Methods
     }
 }
