@@ -2,15 +2,19 @@
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
-using System.Data;
-using System.Data.SqlClient;
 
-namespace CountriesAPI.Database
+namespace CountriesAPI.BL
 {
-    public class DBHandler
+    public class BLCountry
     {
+        #region Public Variables
+
         public static string ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings["sqlconnection"].ConnectionString;
 
+        #endregion Public Variables
+
+        #region Public Methods
+        //retrive all data
         public List<Countries> selectAll()
         {
             List<Countries> countriesList = new List<Countries>();
@@ -20,12 +24,15 @@ namespace CountriesAPI.Database
                 try
                 {
                     conn.Open();
+
+                    //sql query - select all country data.
                     MySqlCommand cmd = new MySqlCommand("select * from countries", conn);
 
                     using (var reader = cmd.ExecuteReader())
                     {
                         while (reader.Read())
                         {
+                            //insert data into model.
                             countriesList.Add(new Countries()
                             {
                                 countryId = Convert.ToInt32(reader["id"]),
@@ -39,15 +46,19 @@ namespace CountriesAPI.Database
                             });
                         }
                     }
-                }catch (Exception ex)
-                {
-                    Console.WriteLine("Can not open connection !");
-
                 }
-
+                catch (Exception objException)
+                {
+                    Console.WriteLine("Cannot open connection with error - " + objException.Message);
+                }
+                finally
+                {
+                    conn.Close();
+                }
             }
             return countriesList;
-           }
+        }
 
+        #endregion Public Methods
     }
 }
