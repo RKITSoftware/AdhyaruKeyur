@@ -7,6 +7,7 @@ using System.IO;
 using System.Linq;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Serialization;
@@ -37,12 +38,19 @@ namespace SerializationDemo
             //BinaryFormatter bf = new BinaryFormatter();
 
             XmlSerializer xs = new XmlSerializer(typeof(Users));
-            
+
+            //Json Serializer
+            //string jsonString = JsonSerializer.Serialize(Users);
+
             FileStream fsout = new FileStream("user.xml", FileMode.Create, FileAccess.Write, FileShare.None);
             try
             {
                 using (fsout)
                 {
+                    //json
+                    //using var sr = new StreamWriter(fsout);
+                    //sr.WriteLine(jsonString);
+
                     //serialize -set info xml format.
                     xs.Serialize(fsout, objUser);
                     label3.Text = "Object Serialized";

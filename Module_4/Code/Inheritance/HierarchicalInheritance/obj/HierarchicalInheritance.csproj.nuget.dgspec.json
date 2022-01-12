@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\repos\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj": {}
+    "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_4\\Code\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\repos\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj": {
+    "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_4\\Code\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\repos\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
+        "projectUniqueName": "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_4\\Code\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
         "projectName": "HierarchicalInheritance",
-        "projectPath": "D:\\DotNet\\repos\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
-        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\repos\\Inheritance\\HierarchicalInheritance\\obj\\",
+        "projectPath": "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_4\\Code\\Inheritance\\HierarchicalInheritance\\HierarchicalInheritance.csproj",
+        "packagesPath": "C:\\Users\\keyur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_4\\Code\\Inheritance\\HierarchicalInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\keyur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

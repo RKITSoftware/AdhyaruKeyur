@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keyur\\source\\repos\\SerializationDemo\\SerializationDemo\\SerializationDemo.csproj",
+      "projectUniqueName": "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_5\\Code\\SerializationDemo\\SerializationDemo\\SerializationDemo.csproj",
       "projectName": "SerializationDemo",
-      "projectPath": "C:\\Users\\keyur\\source\\repos\\SerializationDemo\\SerializationDemo\\SerializationDemo.csproj",
+      "projectPath": "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_5\\Code\\SerializationDemo\\SerializationDemo\\SerializationDemo.csproj",
       "packagesPath": "C:\\Users\\keyur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keyur\\source\\repos\\SerializationDemo\\SerializationDemo\\obj\\",
+      "outputPath": "C:\\Users\\keyur\\OneDrive\\Documents\\GitHub\\AdhyaruKeyur\\Module_5\\Code\\SerializationDemo\\SerializationDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keyur\\AppData\\Roaming\\NuGet\\NuGet.Config",

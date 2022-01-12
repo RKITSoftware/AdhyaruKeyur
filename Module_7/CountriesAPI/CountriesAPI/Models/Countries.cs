@@ -4,8 +4,6 @@ namespace CountriesAPI.Models
 {
     public class Countries
     {
-        #region Public variables
-
         /// <summary>
         /// primary key - country id. 
         /// </summary>
@@ -15,8 +13,8 @@ namespace CountriesAPI.Models
         /// <summary>
         /// Phone Field
         /// </summary>
-        [StringLength(4,ErrorMessage = "Phone Number must be max four character.")]
         [Required (ErrorMessage = "Phone Field is Required.")]
+        [Range(0,9999,ErrorMessage = "Phone Number must be max four character.")]
         public int phone { get; set; }
 
         /// <summary>
@@ -58,7 +56,5 @@ namespace CountriesAPI.Models
         /// </summary>
         [StringLength(4, ErrorMessage = "continent Code must be max four character.")]
         public string continentCode { get; set; }
-        
-        #endregion Public variables
     }
 }

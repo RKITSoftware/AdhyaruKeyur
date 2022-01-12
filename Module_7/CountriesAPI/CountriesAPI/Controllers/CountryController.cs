@@ -1,25 +1,30 @@
 ﻿using CountriesAPI.BL;
 using CountriesAPI.Models;
-using System.Collections.Generic;
 using System.Web.Http;
 
 namespace CountriesAPI.Controllers
 {
     public class CountryController : ApiController
     {
+        #region Public Members
+
+        BLCountry objBLCountry = new BLCountry();
+
+        #endregion Public Members
+
+        #region Public Methods
+
         /// <summary>
         /// Get All Country Data.
         /// </summary>
         /// <returns>
         /// return a Country Data.
         /// </returns>
-        [Route("api/country/allCountry")]
+        [Route("api/country/AllCountry")]
         [HttpGet]
-        public List<Countries> AllCountry()
-        {
-            BLCountry objBLCountry = new BLCountry();
-            
-            return objBLCountry.selectAll();
+        public IHttpActionResult AllCountry()
+        {            
+            return Ok(objBLCountry.SelectAll());
         }
 
         /// <summary>
@@ -31,19 +36,11 @@ namespace CountriesAPI.Controllers
         /// <returns>
         /// return a string messages.
         /// </returns>
-        [Route("api/country/insertCountry")]
+        [Route("api/country/InsertCountry")]
         [HttpPost]
-        public string insertCountry([FromBody] Countries objCountries)
+        public IHttpActionResult InsertCountry([FromBody] Countries objCountries)
         {
-            if (objCountries.countryName == null || objCountries.countryCode == null || objCountries.continent == null)
-            {
-                return "Conutry Name, Country Code and Continent are requried.";
-            }
-            else
-            {
-                BLCountry objBLCountry = new BLCountry();
-                return objBLCountry.addCountry(objCountries);
-            }
+              return Ok(objBLCountry.AddCountry(objCountries));
         }
 
         /// <summary>
@@ -55,19 +52,11 @@ namespace CountriesAPI.Controllers
         /// <returns>
         /// return a string messages.
         /// </returns>
-        [Route("api/country/updateCountry")]
+        [Route("api/country/UpdateCountry")]
         [HttpPost]
-        public string updateCountry([FromBody] Countries objCountries)
+        public IHttpActionResult UpdateCountry([FromBody] Countries objCountries)
         {
-            if (objCountries.countryName == null || objCountries.countryCode == null || objCountries.continent == null)
-            {
-                return "Conutry Name, Country Code and Continent are requried.";
-            }
-            else
-            {
-                BLCountry objBLCountry = new BLCountry();
-                return objBLCountry.updateCountry(objCountries);
-            }
+            return Ok(objBLCountry.UpdateCountry(objCountries));
         }
 
         /// <summary>
@@ -79,12 +68,11 @@ namespace CountriesAPI.Controllers
         /// <returns>
         /// return a Country Model object.
         /// </returns>
-        [Route("api/country/getCountryById")]
+        [Route("api/country/GetCountryById")]
         [HttpGet]
-        public Countries getCountryById(int countryId)
+        public IHttpActionResult GetCountryById(int countryId)
         {
-            BLCountry objBLCountry = new BLCountry();
-            return objBLCountry.getCountryById(countryId);
+            return Ok(objBLCountry.GetCountryById(countryId));
         }
 
         /// <summary>
@@ -96,12 +84,13 @@ namespace CountriesAPI.Controllers
         /// <returns>
         /// return a string messages.
         /// </returns>
-        [Route("api/country/deleteCountryById")]
+        [Route("api/country/DeleteCountryById")]
         [HttpGet]
-        public string deleteCountryById(int countryId)
+        public IHttpActionResult DeleteCountryById(int countryId)
         {
-            BLCountry objBLCountry = new BLCountry();
-            return objBLCountry.delectCountryById(countryId);
+            return Ok(objBLCountry.DelectCountryById(countryId));
         }
+
+        #endregion Public Methods
     }
 }
